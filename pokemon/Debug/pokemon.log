@@ -1,0 +1,6 @@
+﻿  proj.cpp
+c:\users\sasha\documents\projects\pokemon\pokemon\proj.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pokemon.cpp
+  MyPokemon.cpp
+  Generating Code...
+  pokemon.vcxproj -> C:\Users\Sasha\Documents\projects\pokemon\Debug\pokemon.exe
